@@ -10,10 +10,11 @@
 ### 🔧 Tools & Tech I Use:
 - Unreal Engine ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000?style=for-the-badge&logo=unrealengine&logoColor=white)
 - Autodesk Maya ![Maya](https://img.shields.io/badge/Maya-003A60?style=for-the-badge&logo=autodesk&logoColor=white)
-- Substance Painter
+- Substance Painter ![Substance Painter](https://img.shields.io/badge/Substance%20Painter-FF6C39?style=for-the-badge&logo=adobe&logoColor=white)
 - Blender (learning) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 - C, C++ ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-- Git & GitHub
+- Git & GitHub ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
@@ -26,6 +27,6 @@
 
 ### 📫 Let's Connect
 - LinkedIn: [anvit-saran](https://www.linkedin.com/in/anvit-saran)
-- [ArtStation]: (https://www.artstation.com/anvit_saran)
+- [ArtStation]: [anvit_saran] (https://www.artstation.com/anvit_saran
 - [Fiverr Profile] *(link once ready)*
 
