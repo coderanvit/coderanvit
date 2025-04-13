@@ -8,11 +8,11 @@
 ---
 
 ### 🔧 Tools & Tech I Use:
-- Unreal Engine![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000?style=for-the-badge&logo=unrealengine&logoColor=white)
-- Autodesk Maya![Maya](https://img.shields.io/badge/Maya-003A60?style=for-the-badge&logo=autodesk&logoColor=white)
+- Unreal Engine ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000?style=for-the-badge&logo=unrealengine&logoColor=white)
+- Autodesk Maya ![Maya](https://img.shields.io/badge/Maya-003A60?style=for-the-badge&logo=autodesk&logoColor=white)
 - Substance Painter
-- Blender (learning)![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-- C, C++![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+- Blender (learning) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+- C, C++ ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 - Git & GitHub
 
 ---
@@ -25,6 +25,7 @@
 ---
 
 ### 📫 Let's Connect
-- LinkedIn: [anvit-saran](https://www.linkedin.com/in/anvit-saran) 
-- [Fiverr Profile] *(link once ready)*
+- LinkedIn: [anvit-saran](https://www.linkedin.com/in/anvit-saran)
 - [ArtStation]: (https://www.artstation.com/anvit_saran)
+- [Fiverr Profile] *(link once ready)*
+
