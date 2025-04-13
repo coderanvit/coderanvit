@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Hi, I’m Anvit Saran (coderanvit)
 
-<!--
-**coderanvit/coderanvit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Aspiring Game Developer | 3D Artist | BCA Student  
+🛠️ Unreal Engine • Maya • Substance Painter • C/C++  
+🧠 Exploring full-stack game development — from design to code  
+📍 Based in Lucknow, India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tools & Tech I Use
+- Unreal Engine
+- Autodesk Maya
+- Substance Painter
+- Blender (learning)
+- C, C++
+- Git & GitHub
+
+---
+
+### 🚧 Current Projects
+- 🕹️ Personal Unreal Engine projects
+- 🧩 3D Modeling experiments in Maya
+- 🔍 Game dev portfolio building
+
+---
+
+### 📫 Let's Connect
+- LinkedIn: [anvit-saran](https://www.linkedin.com/in/anvit-saran)
