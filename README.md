@@ -27,7 +27,7 @@
 
 ### 📫 Let's Connect
 - LinkedIn: [anvit-saran](https://www.linkedin.com/in/anvit-saran)
-- [ArtStation]: [anvit_saran] (https://www.artstation.com/anvit_saran
+- [![ArtStation](https://img.shields.io/badge/ArtStation-Portfolio-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)] (https://www.artstation.com/anvit_saran)
 - [Fiverr Profile] *(link once ready)*
-- [![ArtStation](https://img.shields.io/badge/ArtStation-Portfolio-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/anvit_saran)
+
 
