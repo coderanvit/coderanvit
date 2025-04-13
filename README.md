@@ -15,6 +15,14 @@
 - C, C++(https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)(https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 - Git & GitHub
 
+  
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Maya](https://img.shields.io/badge/Maya-003A60?style=for-the-badge&logo=autodesk&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+
 ---
 
 ### 🚧 Current Projects:
